@@ -1,0 +1,4 @@
+name = "HelloJulia"
+uuid = "03904741-5165-4817-83d8-1ebc3a8ef36c"
+authors = ["Deep Datta <deep.datta@juliacomputing.com>"]
+version = "0.1.0"
